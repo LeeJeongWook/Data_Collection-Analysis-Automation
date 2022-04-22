@@ -3,4 +3,6 @@
 ### Data_Collection-Analysis-Automation  
 
 2022.04.12 ~  
-[22.04.12] Start & OT
+
+[22.04.12] Start & OT  
+[22.04.19] Crawling
