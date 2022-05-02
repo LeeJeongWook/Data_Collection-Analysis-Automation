@@ -7,3 +7,4 @@
 
 [22.04.12] <a href="https://www.notion.so/1-50629ec93b064db390e7becaf9bce0a3" target="_blank">Notion : Start & OT</a>  
 [22.04.19] <a href="https://www.notion.so/2-0f382816357b4511b9ba747786250da8" target="_blank">Notion : Crawling</a>  
+[22.05.02] 3rd_Week_COVID19 : 코로나 바이러스(COVID19) 이후 관광객 감소 영향 살펴보기
