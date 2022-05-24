@@ -10,5 +10,5 @@
 [22.05.02] 3rd_Week_COVID19 : 코로나 바이러스(COVID19) 이후 관광객 감소 영향 살펴보기  
 [22.05.03] <a href="https://www.notion.so/3-afda18da03db4d779e7ec927ec7003d3" target="_blank">Notion : 3rd_Week_COVID19</a>  
 [22.05.10] <a href="https://www.notion.so/modulabs/4-cb0ed5c56de847529b276ab10d09c095" target="_blank">Notion : 4th_Week_Instagram_Hot_Place</a>  
-[22.05.17] <a href="https://modulabs.notion.site/5-9ee24bad24c34a1e935e40362cbe1688" target="_blank">Notion : 5th_Starbucks_Location</a>
+[22.05.17] <a href="https://modulabs.notion.site/5-9ee24bad24c34a1e935e40362cbe1688" target="_blank">Notion : 5th_Starbucks_Location</a>  
 [22.05.24] <a href="https://www.notion.so/modulabs/6-2cc5f8e385ab4d41944c7eea70598969" target="_blank">Notion : 6th_Best_Product</a>  
