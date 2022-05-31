@@ -12,3 +12,4 @@
 [22.05.10] <a href="https://www.notion.so/modulabs/4-cb0ed5c56de847529b276ab10d09c095" target="_blank">Notion : 4th_Week_Instagram_Hot_Place</a>  
 [22.05.17] <a href="https://modulabs.notion.site/5-9ee24bad24c34a1e935e40362cbe1688" target="_blank">Notion : 5th_Starbucks_Location</a>  
 [22.05.24] <a href="https://www.notion.so/modulabs/6-2cc5f8e385ab4d41944c7eea70598969" target="_blank">Notion : 6th_Best_Product</a>  
+[22.05.31] <a href="https://www.notion.so/modulabs/7-7e133d395da84d6fbda56b3bf1d7df88" target="_blank">Notion : 7th_Personal_Project</a>  
